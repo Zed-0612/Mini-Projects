@@ -12,10 +12,6 @@ These are **mini-projects, not production systems**. The topics and techniques w
 
 ### 1. Personality Classification from Social Media Behavior
 
-**Notebook:** [`DS218_Final_Requirement_GitHub.ipynb`](DS218_Final_Requirement_GitHub.ipynb)  
-**Dataset:** [`personality.csv`](personality.csv)  
-**Presentation:** [Watch the project presentation](https://drive.google.com/file/d/10874w2EEadEt4kP-A8pbbpSzbxXIOTUQ/view?usp=sharing)
-
 This project explores whether social-media behavior features can be used to classify a user into one of two dataset labels: **Introverted (0)** or **Extroverted (1)**.
 
 The dataset contains **100 records** and includes six numerical features—posting frequency, post interactions, time spent on social media, response time, post length, and number of friends/followers—along with one categorical feature describing the most common interaction type.
