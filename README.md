@@ -78,15 +78,6 @@ The notebook was developed in **Google Colab** using a Jupyter notebook (`.ipynb
 
 ---
 
-## Repository Contents
-
-```text
-.
-├── README.md
-├── DS218_Final_Requirement_GitHub.ipynb
-└── personality.csv
-```
-
 As more projects are added, this index will grow. I may organize larger projects into their own folders with a notebook, supporting datasets, and project-specific notes.
 
 ---
