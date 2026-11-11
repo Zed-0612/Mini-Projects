@@ -91,29 +91,6 @@ As more projects are added, this index will grow. I may organize larger projects
 
 ---
 
-## Run the First Project
-
-### Option 1: Google Colab
-
-1. Open [`DS218_Final_Requirement_GitHub.ipynb`](DS218_Final_Requirement_GitHub.ipynb) in Google Colab.
-2. Upload `personality.csv` to the Colab session, or place it in the same working directory as the notebook.
-3. Run the notebook cells in order, or select **Runtime → Run all**.
-
-### Option 2: Run locally
-
-1. Clone or download this repository.
-2. Make sure `DS218_Final_Requirement_GitHub.ipynb` and `personality.csv` are in the same directory.
-3. Install the libraries used by the notebook:
-
-   ```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn jupyter
-   ```
-
-4. Start Jupyter Notebook or JupyterLab and open the `.ipynb` file.
-5. Run the cells from top to bottom.
-
----
-
 ## Scope and Limitations
 
 This is an **exploratory academic exercise** using a small dataset of 100 records and a limited set of behavioral features. The notebook itself notes that the sample size, limited features, and possible self-identification bias constrain what can be concluded.
