@@ -1,23 +1,5 @@
 {
- "cells": [
-  {
-   "cell_type": "markdown",
-   "metadata": {
-    "id": "uL_QRy4dCz8Y"
-   },
-   "source": [
-    "# DS 218 Final Requirement\n",
-    "\n",
-    "**Student:** MELCHIZEDECK P. RUDINAS  \n",
-    "**Professor:** DHARYLL PRINCE ABELLANA\n",
-    "\n",
-    "**Project presentation:** [Watch the presentation video](https://drive.google.com/file/d/10874w2EEadEt4kP-A8pbbpSzbxXIOTUQ/view?usp=sharing)\n",
-    "\n",
-    "---\n",
-    "\n",
-    "> **Dataset required to rerun the notebook:** The code loads a file named `personality.csv` from the same folder as this notebook. Add that CSV to the repository before rerunning the analysis. The saved cell outputs and graph images are retained in this notebook for preview.\n",
-    "\n",
-    "## Table of Contents\n",
+     "## Table of Contents\n",
     "\n",
     "- [Task 1: Data Understanding](#task-1-data-understanding)\n",
     "- [Task 2: Preprocessing](#task-2-preprocessing)\n",
